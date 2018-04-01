@@ -2,6 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
+## Updated README while on master
+
+Updated readme file while on master branch
+
 ## Introduction
 
 Introduction text goes here
